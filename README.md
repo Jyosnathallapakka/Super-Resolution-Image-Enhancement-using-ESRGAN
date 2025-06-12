@@ -14,3 +14,5 @@ ESRGAN (Enhanced Super-Resolution GAN) is a state-of-the-art deep learning model
 ESRGAN is the enhanced version of the SRGAN. Authors of the ESRGAN tried to enhance the SRGAN by modifying the model architecture and loss functions.
 
 Before diving into the ESRGAN first let’s get a high-level understanding of the GAN. GANs are capable of generating Fake data that looks realistic. Some of the GAN applications are to enhance the quality of the image. The high-level architecture of the GAN contains two main networks namely the generator network and the discriminator network. The generator network tries to generate the fake data and the discriminator network tries to distinguish between real and fake data, hence helping the generator to generate more realistic data.
+
+![Image Alt](https://github.com/Jyosnathallapakka/Super-Resolution-Image-Enhancement-using-ESRGAN/blob/4621b6ccdbed913e3661983b41060b698506ac29/gan1.webp)
